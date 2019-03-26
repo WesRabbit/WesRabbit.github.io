@@ -1,9 +1,9 @@
 # Site
 title: Wes
-description: Stylish, Two-Column Jekyll Theme
+description: Talvez uma ideia, talvez um pensamento
 url: https://taylantatli.github.io/Halve
 logo: halve.png                                       # Site logo
-locale: en_US
+locale: pt_BR
 
 # Left Block Images
 background:
@@ -29,30 +29,30 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-#email:             email
+email:             wesnunes@outlook.com
 #google.plus:        username
-twitter:            username
-#facebook:           username
-github:             username
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+#twitter:            username
+facebook:           manifestodosquadrinhos
+github:             WesRabbit
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+linkedin:          wesnunes
 #xing:              username
 #instagram:          username
 #lastfm:            username
-#tumblr:            username
+tumblr:            manifestodosquadrinhos
 #pinterest:         username
 #foursquare:        username
-#steam:              username
+steam:              wescomics
 #dribbble:          username
 #youtube:           username
-#soundcloud:        username
+soundcloud:        messofthewes
 #weibo:             username
 #flickr:            username
 #codepen:           username
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+behance:           wesnunes
 
 # Gems
 gems:
