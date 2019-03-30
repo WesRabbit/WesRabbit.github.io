@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# About Theme
+# O que é isso aqui?
 
 Oi, eu sou o Wes. 
 
